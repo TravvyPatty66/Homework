@@ -1,1 +1,1 @@
-# GitHub-URL-for-homework
+$ git push <rmeote> <branch>
