@@ -1,1 +1,1 @@
-$ git push <rmeote> <branch>
+$ git push <remote> <local_branch>:<remote_name>
